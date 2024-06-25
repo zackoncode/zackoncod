@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 Sou estudante de ADS e estou no 1° Período da faculdade.<br>👯 Além de ADS, estou fazendo TEC em DG focado em UX/UI.<br>🤝 Estou buscando conteúdos para aprimorar e evoluir as minhas ideias.
+
+🔭 Sou estudante de ADS e estou no 2° Período da faculdade.<br>👯 Além de ADS, estou fazendo TEC em DG focado em UX/UI.<br>🤝 Estou buscando conteúdos para aprimorar e evoluir as minhas ideias.
 
 
 ## 🌐 Socials:
